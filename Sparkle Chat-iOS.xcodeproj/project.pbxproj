@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E32A1772A04BB98005167DA /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E32A1762A04BB98005167DA /* RegisterViewController.swift */; };
 		7EBD3F0B2A02180600AEEDAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBD3F0A2A02180600AEEDAC /* AppDelegate.swift */; };
 		7EBD3F0D2A02180600AEEDAC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBD3F0C2A02180600AEEDAC /* SceneDelegate.swift */; };
 		7EBD3F0F2A02180600AEEDAC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBD3F0E2A02180600AEEDAC /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7E32A1762A04BB98005167DA /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		7EBD3F072A02180600AEEDAC /* Sparkle Chat-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sparkle Chat-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EBD3F0A2A02180600AEEDAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EBD3F0C2A02180600AEEDAC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				7EBD3F0A2A02180600AEEDAC /* AppDelegate.swift */,
 				7EBD3F0C2A02180600AEEDAC /* SceneDelegate.swift */,
 				7EBD3F0E2A02180600AEEDAC /* ViewController.swift */,
+				7E32A1762A04BB98005167DA /* RegisterViewController.swift */,
 				7EBD3F102A02180600AEEDAC /* Main.storyboard */,
 				7EBD3F132A02180700AEEDAC /* Assets.xcassets */,
 				7EBD3F152A02180700AEEDAC /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				7EBD3F0F2A02180600AEEDAC /* ViewController.swift in Sources */,
 				7EBD3F0B2A02180600AEEDAC /* AppDelegate.swift in Sources */,
 				7EBD3F0D2A02180600AEEDAC /* SceneDelegate.swift in Sources */,
+				7E32A1772A04BB98005167DA /* RegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
