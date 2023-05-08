@@ -1,0 +1,6 @@
+framework module Pods_Sparkle_Chat_iOS {
+  umbrella header "Pods-Sparkle Chat-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
